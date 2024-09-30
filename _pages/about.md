@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Hao Luo’s homepage!
-======
-I am 
+
+  I am a postdoc researcher at Leipzig University.
 
 Research interests
 ======
