@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hao Luo"
 title_separator          : "-"
-name                     : &name "Dr. Hao Luo"
+name                     : &name "Dr. Hao Luo （罗浩）"
 description              : &description "Postdoctoral Reasearch Fellow"
 url                      : https://haoluo-atmos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
