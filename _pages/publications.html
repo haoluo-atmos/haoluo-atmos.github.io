@@ -4,6 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reversed List</title>
+    <style>
+        ol[reversed] {
+            margin-left: 0;  /* 移除左侧的外边距 */
+            padding-left: 0; /* 移除左侧的内边距 */
+            list-style-position: inside; /* 列表编号与内容对齐 */
+        }
+    </style>
+</head>
+<body>
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank" rel="noopener noreferrer" >my Google Scholar profile</a>.</div>
@@ -15,7 +28,7 @@ author_profile: true
 <h2>Journal articles</h2>
 <ol reversed>
   
-<h3>2024<h3>
+<strong>2024</strong>
   
 <li><strong>Luo, H.</strong>, Quaas, J., and Han, Y.: Decreased cloud cover partially offsets the cooling effects of surface albedo change due to deforestation, Nature Communications, 15, 7345, https://doi:10.1038/s41467-024-51783-y, 2024. [<a href="https://www.nature.com/articles/s41467-024-51783-y" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
