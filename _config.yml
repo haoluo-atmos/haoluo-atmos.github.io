@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Hao Luo"
 title_separator          : "-"
 name                     : &name "Dr. Hao Luo"
 description              : &description "Research fellow at Leipzig University"
