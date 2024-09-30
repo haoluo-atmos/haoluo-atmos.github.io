@@ -7,14 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is me
-
-Education
+Welcome to Hao Luo’s homepage!
 ======
-1
+I am 
 
 Research interests
 ======
-1
-2
-3
+1. Cloud processes and cloud-climate feedbacks
+2. Cloud and land cover interactions
