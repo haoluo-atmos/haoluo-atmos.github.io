@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can also find my articles on <a href="{{https://scholar.google.com/citations?user=_mGQ8WoAAAAJ&hl=en}}">my Google Scholar profile
+
+
+Journal articles
+------
+1. Luo
+2. Luo
