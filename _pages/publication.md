@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my articles on <a href="{{https://scholar.google.com/citations?user=_mGQ8WoAAAAJ&hl=en}}">my Google Scholar profile
+You can also find my articles on <a href="{{https://scholar.google.com/citations?user=_mGQ8WoAAAAJ&hl=en}}">my Google Scholar profile.
 
 
 
@@ -26,6 +26,7 @@ Journal articles
 <!-- -->
 14. Ye, D., Wang, X., Han, Y., Zhang, Y., Dong, L., **Luo, H.**, Xie, X, Xu, D.: Precipitation Characteristics and Mechanisms over Sri Lanka against the Background of the Western Indian Ocean: 1981–2020, Atmosphere, 15(8), 962, https://doi.org/10.3390/atmos15080962, 2024.
 <!-- -->
+
 **2023**
 
 13. **Luo, H.**, Quaas, J., and Han, Y.: Examining cloud vertical structure and radiative effects from satellite retrievals and evaluation of CMIP6 scenarios, Atmospheric Chemistry and Physics, 23, 8169-8186, https://doi.org/10.5194/acp-23-8169-2023, 2023.  
@@ -38,6 +39,7 @@ Journal articles
 <!-- -->
 9. Zhao, Y., Ding, J., Han, Y., Lu, T., Zhang, Y., and **Luo, H.**: Aerosol Physical-Optical Properties under Different Stages of Continuous Wet Weather over the Guangdong-Hong Kong-Macao Greater Bay Area, China, Remote Sensing, 15, 1413, https://doi.org/10.3390/rs15051413, 2023.  
 <!-- -->
+
 **2022**
 
 8. **Luo, H.**, Dong, L., Chen, Y., Zhao, Y., Zhao, D., Huang, M., Ding, D., Liao, J., Ma, T., Hu, M., and Han, Y.: Interaction between aerosol and thermodynamic stability within the planetary boundary layer during wintertime over the North China Plain: aircraft observation and WRF-Chem simulation, Atmospheric Chemistry and Physics, 22, 2507-2524, https://doi.org/10.5194/acp-22-2507-2022, 2022.  
@@ -46,6 +48,7 @@ Journal articles
 <!-- -->
 6. Su, Y., Han, Y., **Luo, H.**, Zhang, Y., Shao, S., and Xie, X.: Physical-Optical Properties of Marine Aerosols over the South China Sea: Shipboard Measurements and MERRA-2 Reanalysis, Remote Sensing, 14, 2453, 2022.  
 <!-- -->
+
 **2021**
 
 5. **Luo, H.** and Han, Y.: Impacts of the Saharan air layer on the physical properties of the Atlantic tropical cyclone cloud systems: 2003–2019, Atmospheric Chemistry and Physics, 21, 15171-15184, https://doi.org/10.5194/acp-21-15171-2021, 2021.   
@@ -56,6 +59,7 @@ Journal articles
 <!-- -->
 2. Zhang, Y., Wei, F., **Luo, H.**, Su, Y., Feng, Y., Huang, Y., Yang, J., Wu, Y., and Han, Y.: Aerosol Physical-Optical Properties and PBLH Under Different Air Pollution Levels From Ground Lidar and Satellite Observations Over Shouxian Area, China, Journal of Geophysical Research: Atmospheres, 126, e2021JD035236, https://doi.org/10.1029/2021JD035236, 2021.
 <!-- -->
+
 **2019**
 
 1. **Luo, H.**, Han, Y., Lu, C., Yang, J., and Wu, Y.: Characteristics of Surface Solar Radiation under Different Air Pollution Conditions over Nanjing, China: Observation and Simulation, Advances in Atmospheric Sciences, 36, 1047-1059, https://doi.org/10.1007/s00376-019-9010-4, 2019. (Cover Paper)
