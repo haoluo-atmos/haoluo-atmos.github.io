@@ -7,11 +7,17 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reversed List</title>
+    <title>Reversed List with Hanging Indent</title>
     <style>
         ol[reversed] {
-            margin-left: 0;  /* 移除左侧的外边距 */
-            padding-left: 0; /* 移除左侧的内边距 */
+            margin-left: 0;
+            padding-left: 0;
+            list-style-position: inside;
+        }
+
+        ol[reversed] li {
+            padding-left: 1.5em; /* 为列表项添加内边距，确保悬挂缩进效果 */
+            text-indent: -1.5em; /* 将第二行和之后的行缩进 */
         }
     </style>
 </head>
