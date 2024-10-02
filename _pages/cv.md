@@ -11,54 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Atmospheric Science, Sun Yat-sen University, China, 2024
+  * Supervisor: Prof. Yong Han
+* M.S. in Atmospheric Physics and Atmospheric Environment, Nanjing University of Information Science & Technology, China, 2020
+  * Supervisor: Prof. Chunsong Lu
+* B.S. in Atmospheric Science, Nanjing University of Information Science & Technology, China, 2017
+  * Supervisor: Prof. Chunsong Lu
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024-present: Postdoctoral Researcher
+  * Leipzig University, Germany
+  * Supervisor: Prof. Johannes Quaas
+* 2022-2023: Visiting Ph.D
+  * Leipzig University, Germany
+  * Supervisor: Prof. Johannes Quaas
+* 2017-2020: Visiting M.S.
+  * Nanjing University & Sun Yat-sen University, China
+  * Supervisor: Prof. Yong Han
