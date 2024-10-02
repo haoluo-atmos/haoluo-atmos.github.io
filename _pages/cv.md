@@ -33,19 +33,19 @@ Work experience
 Honors and Awards
 ======
 * **2024** Outstanding Ph.D. graduates
-  ** Sun Yat-sen University
+  * Sun Yat-sen University
   
 * **2023** National scholarship for Ph.D.
-  ** Ministry of Education, China
+  * Ministry of Education, China
   
 * **2022** National scholarship for Ph.D.
-  ** Ministry of Education, China
+  * Ministry of Education, China
 
 * **2020** Outstanding M.S. graduates
-  ** Nanjing University of Information Science & Technology
+  * Nanjing University of Information Science & Technology
   
 * **2019** National scholarship for M.S.
-  ** Ministry of Education, China
+  * Ministry of Education, China
 
 * **2017** Outstanding B.S. graduates
-  ** Nanjing University of Information Science & Technology
+  * Nanjing University of Information Science & Technology
