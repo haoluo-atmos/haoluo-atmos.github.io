@@ -27,5 +27,5 @@ Work experience
   * Leipzig University, Germany
   * Supervisor: Prof. Johannes Quaas
 * 2017-2020: Visiting M.S.
-  * Nanjing University & Sun Yat-sen University, China
+  * Nanjing University, China / Sun Yat-sen University, China
   * Supervisor: Prof. Yong Han
