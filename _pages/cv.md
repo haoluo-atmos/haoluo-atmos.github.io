@@ -23,13 +23,13 @@ Education
 
 Work experience
 ======
-* **2024-present** Postdoctoral Researcher
+* **2024-present** Postdoctoral Research Fellow
   * Leipzig University, Germany
   * Supervisor: Prof. Johannes Quaas
-* **2022-2023** Visiting Ph.D
+* **2022-2023** Visiting Research Fellow
   * Leipzig University, Germany
   * Supervisor: Prof. Johannes Quaas
-* **2017-2020** Visiting M.S.
+* **2017-2020** Visiting Research Fellow
   * Nanjing University, China / Sun Yat-sen University, China
   * Supervisor: Prof. Yong Han
  
