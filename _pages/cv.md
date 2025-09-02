@@ -35,6 +35,8 @@ Work experience
  
 Honors and Awards
 ======
+* **2025** Best Doctoral Dissertation Award, Atmospheric Environmental Remote Sensing Society
+
 * **2024** Outstanding Ph.D. Graduate Award, Sun Yat-sen University
   
 * **2023** National Scholarship Award for Ph.D., Ministry of Education, China
