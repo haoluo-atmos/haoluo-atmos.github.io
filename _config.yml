@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-hl.jpg"
+  avatar           : "photo-hluo.jpg"
   name             : "Dr. Hao Luo （罗浩）"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow"
