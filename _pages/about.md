@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-  I am a postdoc researcher at Leipzig University.
+  I am currently a postdoc researcher at Leipzig University.
 
 Research interests
 ======
-1. Cloud processes and cloud-climate feedbacks
-2. Cloud and land cover interactions
+1. Cloud-radiation interactions and climate feedbacks
+2. Biosphere-atmosphere coupling and land-use impacts
+3. Climate extremes and diurnal asymmetry
+4. Satellite observations and climate modelling
